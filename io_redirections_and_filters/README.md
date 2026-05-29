@@ -1,0 +1,29 @@
+# Shell I/O Redirections and Filters
+
+- 0-hello_world: prints Hello World
+- 1-confused_smiley: displays a confused smiley
+- 2-hellofile: displays /etc/passwd
+- 3-twofiles: displays /etc/passwd and /etc/hosts
+- 4-lastlines: displays last 10 lines of /etc/passwd
+- 5-firstlines: displays first 10 lines of /etc/passwd
+- 6-third_line: displays third line of iacta
+- 7-file: creates a file with a special name
+- 8-cwd_state: saves ls -la to ls_cwd_content
+- 9-duplicate_last_line: duplicates last line of iacta
+- 10-no_more_js: deletes all .js files
+- 11-directories: counts directories and subdirectories
+- 12-newest_files: displays 10 newest files
+- 13-unique: prints words that appear exactly once
+- 14-findthatword: displays lines containing root
+- 15-countthatword: counts lines containing bin
+- 16-whatsnext: displays lines with root and 3 lines after
+- 17-hidethisword: displays lines without bin
+- 18-letteronly: displays lines starting with a letter
+- 19-AZ: replaces A with Z and c with e
+- 20-hiago: removes c and C from input
+- 21-reverse: reverses input
+- 22-users_and_homes: displays users and home dirs sorted
+- 23-empty_casks: finds empty files and directories
+- 24-gifs: lists gif files without extension
+- 25-acrostic: decodes acrostics
+- 26-the_biggest_fan: displays 11 most active hosts
