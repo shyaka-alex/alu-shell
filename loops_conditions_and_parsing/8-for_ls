@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# This script displays directory contents with only the part after first dash
+# This script displays directory content after the first dash
 for file in ./*; do
-    echo "${file#*-}"
+    filename="${file##./}"
+    echo "${filename#*-}"
 done
